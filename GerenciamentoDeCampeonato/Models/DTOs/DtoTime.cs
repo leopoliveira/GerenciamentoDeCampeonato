@@ -12,6 +12,7 @@ namespace GerenciamentoDeCampeonato.Models.DTOs
 
         public string City { get; set; }
 
+        [SwaggerSchema(ReadOnly = true)]
         public byte[]? Emblem { get; set; }
 
         public string? StadiumName { get; set; }

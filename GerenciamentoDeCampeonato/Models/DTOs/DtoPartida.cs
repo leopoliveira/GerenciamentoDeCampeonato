@@ -7,19 +7,23 @@ namespace GerenciamentoDeCampeonato.Models.DTOs
     {
         public int TournamentId { get; set; }
 
-        public string Tournament { get; set; }
+        [SwaggerSchema(ReadOnly = true)]
+        public string? Tournament { get; set; }
 
         public int HomeTeamId { get; set; }
 
-        public string HomeTeam { get; set; }
+        [SwaggerSchema(ReadOnly = true)]
+        public string? HomeTeam { get; set; }
 
         public int AwayTeamId { get; set; }
 
-        public string AwayTeam { get; set; }
+        [SwaggerSchema(ReadOnly = true)]
+        public string? AwayTeam { get; set; }
 
         public int WinnerTeamId { get; set; }
 
-        public string WinnerTeam { get; set; }
+        [SwaggerSchema(ReadOnly = true)]
+        public string? WinnerTeam { get; set; }
 
         public DateTime StartDate { get; set; }
 

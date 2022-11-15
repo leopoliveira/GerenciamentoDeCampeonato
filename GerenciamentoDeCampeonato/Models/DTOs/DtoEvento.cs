@@ -10,8 +10,10 @@ namespace GerenciamentoDeCampeonato.Models.DTOs
 
         public int MatchId { get; set; }
 
-        public string Match { get; set; }
+        [SwaggerSchema(ReadOnly = true)]
+        public string? Match { get; set; }
 
-        public string Tournament { get; set; }
+        [SwaggerSchema(ReadOnly = true)]
+        public string? Tournament { get; set; }
     }
 }

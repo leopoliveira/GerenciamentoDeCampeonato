@@ -11,15 +11,18 @@ namespace GerenciamentoDeCampeonato.Models.DTOs
     {
         public int PlayerId { get; set; }
 
-        public string Player { get; set; }
+        [SwaggerSchema(ReadOnly = true)]
+        public string? Player { get; set; }
 
         public int NewTeamId { get; set; }
 
-        public string NewTeam { get; set; }
+        [SwaggerSchema(ReadOnly = true)]
+        public string? NewTeam { get; set; }
 
         public int OldTeamId { get; set; }
 
-        public string OldTeam { get; set; }
+        [SwaggerSchema(ReadOnly = true)]
+        public string? OldTeam { get; set; }
 
         public DateTime TransferDate { get; set; }
 
