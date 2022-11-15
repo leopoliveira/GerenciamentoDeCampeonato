@@ -11,6 +11,8 @@
 <li>DTOs
 <li>Heranças
 <li>Swagger + Open API 3.0
+<li>API Rest
+<li>Nível de Maturidade 2 (apenas na entidade Jogador)
 
 # Nessa aplicação, podemos cadastrar:
 ### Times
