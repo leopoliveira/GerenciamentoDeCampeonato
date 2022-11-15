@@ -1,4 +1,4 @@
-# GerenciamentoDeCampeonato
+# Gerenciamento De Campeonato
 
 ## Web API Desenvolvida para a aula de APIs do curso de Pós-Graduação da PUC Minas 2022.
 
