@@ -12,4 +12,4 @@
 <li>Heranças
 <li>Swagger + Open API 3.0
 
-## Aluno: Leonardo de Paula Oliveira - Matricula: 149821
+## Aluno: Leonardo de Paula Oliveira - Matricula: 149821 - Engenharia de Software.
