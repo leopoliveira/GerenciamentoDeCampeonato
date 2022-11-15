@@ -13,3 +13,11 @@
 <li>Swagger + Open API 3.0
 
 ## Aluno: Leonardo de Paula Oliveira - Matricula: 149821 - Engenharia de Software.
+
+# Nessa aplicação, podemos cadastrar:
+<li>Times
+<li>Jogadores
+<li>Transferencia de Jogadors entre Times
+<li>Campeonatos
+<li>Partidas entre Times em Campeonatos
+<li>Eventos de Partidas
