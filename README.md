@@ -17,13 +17,13 @@
  
 ![x](https://user-images.githubusercontent.com/35302072/202004218-073c9bf4-7871-4147-8306-452811c89bd6.PNG)
 
-### Campeonatos
+### Torneios e
 ### Transferencia de Jogadors entre Times
   
 ![x](https://user-images.githubusercontent.com/35302072/202004605-5300859b-a138-4667-9770-3dd84bd86434.PNG)
   
-### Jogadores
-### Partidas entre Times em Campeonatos
+### Jogadores e
+### Partidas entre Times em Campeonatos e
 ### Eventos de Partidas
   
 ![x](https://user-images.githubusercontent.com/35302072/202004451-774e5cf4-3eba-4d90-95b9-0e25adc3cf1d.PNG)
